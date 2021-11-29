@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/drawable/Filter_layout_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/drawable/search_viewbackground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout-v24/all_articles_adapterlayout.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/activity_dash_board.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/all_articles_adapterlayout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/allarticl_adapter_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/allsources_adapter_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/fragment_all__sources.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/fragment_all_articles.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/fragment_all_sources.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/fragment_dash_board.xml" value="0.165625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/fragment_sources__onlly.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/sources_only_adapter_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/layout/tech_adapter_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyNewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3333333333333333" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
