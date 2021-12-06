@@ -406,7 +406,6 @@ private lateinit var  progress_bar: LinearLayout
         adap.notifyDataSetChanged()
         recycler_view_for_searches.adapter = adap
 
-        // progress_bar_layout.visibility = View.GONE
     }
 
     private fun extract_categorylist(category: String)

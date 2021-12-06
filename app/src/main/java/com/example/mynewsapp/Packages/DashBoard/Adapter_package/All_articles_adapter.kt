@@ -57,6 +57,7 @@ val all_articles_data: All_articles_dataclass=dataset[position]
 
 return dataset.size
     }
+
     class ViewHolder(val itemview: View): RecyclerView.ViewHolder(itemview)
     {
 

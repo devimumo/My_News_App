@@ -32,15 +32,17 @@ class SectionsPagerAdapter(private val context: Context, fm: FragmentManager) :
             }
             1->{
 
+               // return All_Sources()
                 return All_Sources()
 
             }
             2->{
 
-                return Sources_Onlly()
+               // return Sources_Onlly()
+                return All_articles()
 
             }
-            else->return Sources_Onlly()
+            else->return All_articles()
 
         }
         // getItem is called to instantiate the fragment for the given page.
